@@ -1,5 +1,6 @@
 
-![Sunset](https://capsule-render.vercel.app/api?type=rect&color=0:ff512f,50:f09819,100:f9d423&height=280&section=header&text=AYAN%20KHAN&fontColor=ffffff&fontSize=55&animation=fadeIn)
+![Stars](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
 
 
 
