@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=00FFB3&center=true&vCenter=true&width=900&height=80&lines=AYAN+KHAN;Full-Stack+Web+Developer;ASP.NET+%7C+React+%7C+SQL;Building+Modern+Web+Apps)
+![Pixel](https://github.com/Ashutosh00710/github-readme-activity-graph/blob/master/graph.gif)
+
 
 
 # 👋 Hey, I’m Ayan Khan
