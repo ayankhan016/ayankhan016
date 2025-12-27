@@ -1,4 +1,4 @@
-![Background](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
+![Background](https://raw.githubusercontent.com/VishwaGauravIn/awesome-github-profile-readme/main/assets/night-sky.gif)
 
 
 
