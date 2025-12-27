@@ -1,4 +1,5 @@
-![Pixel Banner](https://raw.githubusercontent.com/kyechan99/capsule-render/main/assets/images/gh-profile-header.gif)
+![Stars](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=300&section=header&text=AYAN%20KHAN&fontSize=60&fontColor=ffffff&animation=twinkling)
+
 
 
 
