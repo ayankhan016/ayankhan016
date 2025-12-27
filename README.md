@@ -1,4 +1,4 @@
-![Background](https://raw.githubusercontent.com/VishwaGauravIn/awesome-github-profile-readme/main/assets/night-sky.gif)
+![Background](dp2kuk914o9y_gif (1731×560).gif)
 
 
 
@@ -41,3 +41,4 @@ I focus on real-world projects like e-commerce, dashboards, and AI powered syste
 - 🌐 Portfolio: https://portfolio-ecru-rho-18.vercel.app  
 - 💻 GitHub: https://github.com/ayankhan016  
 - 📧 Email: ayaankhan016xd@gmail.com
+
