@@ -1,4 +1,5 @@
-![Pixel](https://github.com/Ashutosh00710/github-readme-activity-graph/blob/master/graph.gif)
+![Neon](https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:7b61ff&height=250&section=header&text=Ayan%20Khan&fontSize=60&fontColor=ffffff&animation=fadeIn)
+
 
 
 
