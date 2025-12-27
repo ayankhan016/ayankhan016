@@ -32,20 +32,6 @@ I focus on real-world projects like e-commerce, dashboards, and AI powered syste
 
 ---
 
-## 👟 Featured Project — Nike E-Commerce
-A minimal Nike inspired fashion focused e commerce web application built using ASP.NET MVC and SQL Server.
-
-![Nike](https://raw.githubusercontent.com/ayankhan016/Nike/main/website.png)
-
-🔗 **View Project:** https://github.com/ayankhan016/Nike
-
----
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ayankhan016&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Connect
 - 🌐 Portfolio: https://portfolio-ecru-rho-18.vercel.app  
 - 💻 GitHub: https://github.com/ayankhan016  
