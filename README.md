@@ -1,4 +1,5 @@
-![Galaxy](https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif)
+https://raw.githubusercontent.com/JulianLaval/canvas-particle-network/master/img/demo.gif
+
 
 
 
