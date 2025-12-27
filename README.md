@@ -1,4 +1,5 @@
-![Sky](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/sky.gif)
+![Sunset](https://raw.githubusercontent.com/Angel-Mira/Angel-Mira/main/assets/gradient.gif)
+
 
 
 
