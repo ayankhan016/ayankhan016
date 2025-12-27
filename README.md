@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/kyechan99/capsule-render/main/assets/images/gradient.gif
+https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif
 
 
 
