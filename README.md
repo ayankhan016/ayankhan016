@@ -1,4 +1,5 @@
-![Neon](https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:7b61ff&height=250&section=header&text=Ayan%20Khan&fontSize=60&fontColor=ffffff&animation=fadeIn)
+![Stars](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=300&section=header&text=Ayan%20Khan&fontSize=60&fontColor=ffffff&animation=twinkling)
+
 
 
 
