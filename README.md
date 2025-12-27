@@ -1,4 +1,5 @@
-![Stars](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=300&section=header&text=AYAN%20KHAN&fontSize=60&fontColor=ffffff&animation=twinkling)
+
+![Sunset](https://capsule-render.vercel.app/api?type=rect&color=0:ff512f,50:f09819,100:f9d423&height=280&section=header&text=AYAN%20KHAN&fontColor=ffffff&fontSize=55&animation=fadeIn)
 
 
 
