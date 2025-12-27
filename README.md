@@ -1,4 +1,5 @@
-![Banner](https://raw.githubusercontent.com/ayankhan016/Nike/main/website.png)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=00FFB3&center=true&vCenter=true&width=900&height=80&lines=AYAN+KHAN;Full-Stack+Web+Developer;ASP.NET+%7C+React+%7C+SQL;Building+Modern+Web+Apps)
+
 
 # 👋 Hey, I’m Ayan Khan
 
