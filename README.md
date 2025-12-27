@@ -1,4 +1,5 @@
-https://raw.githubusercontent.com/JulianLaval/canvas-particle-network/master/img/demo.gif
+https://raw.githubusercontent.com/kyechan99/capsule-render/main/assets/images/gradient.gif
+
 
 
 
