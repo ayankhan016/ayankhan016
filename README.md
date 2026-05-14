@@ -38,7 +38,7 @@ I focus on real-world projects like e-commerce, dashboards, and AI powered syste
 ---
 
 ## 📫 Connect
-- 🌐 Portfolio: https://portfolio-ecru-rho-18.vercel.app  
+- 🌐 Portfolio: https://ayan-khan-portfolio-six.vercel.app  
 - 💻 GitHub: https://github.com/ayankhan016  
 - 📧 Email: ayaankhan016xd@gmail.com
 
